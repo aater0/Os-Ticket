@@ -5,7 +5,7 @@ This repository documents my hands-on experience setting up and using OS Ticket,
 ## 🛠️ Lab Objectives  
 ✔ Deploy a Virtual Machine (VM) in **Microsoft Azure**  
 ✔ Install and configure **OS Ticket** on the VM  
-✔ Set up **IIS (Windows) or Apache (Linux)** for web hosting  
+✔ Set up **IIS (Windows)** for web hosting  
 ✔ Configure **MySQL** for database management  
 ✔ Create and manage tickets within OS Ticket  
 ✔ Explore **help desk workflows** in a cloud-hosted environment  
@@ -14,7 +14,7 @@ This repository documents my hands-on experience setting up and using OS Ticket,
 - **Microsoft Azure** (Cloud hosting)  
 - **Windows Server / Linux** (Deployed OS Ticket on a VM)  
 - **OS Ticket** (Help desk ticketing system)  
-- **IIS / Apache Web Server** (Web hosting for OS Ticket)  
+- **IIS** (Web hosting for OS Ticket)  
 - **MySQL** (Database backend)  
 - **Remote Desktop Protocol (RDP) / SSH** (For VM access)  
 
@@ -22,12 +22,12 @@ This repository documents my hands-on experience setting up and using OS Ticket,
 1. **Created a Virtual Machine (VM)** in Azure (Windows Server/Linux)  
 2. **Configured networking** (Allowed HTTP, HTTPS, RDP, and MySQL ports)  
 3. **Installed OS Ticket** and its required dependencies  
-4. **Set up IIS (Windows) or Apache (Linux)** for web access  
+4. **Set up IIS (Windows)** for web access  
 5. **Configured MySQL database** and linked it to OS Ticket  
 6. **Tested ticket submission and resolution workflows**  
 
 ## 📸 Screenshots  
-(Screenshots of the Azure VM, OS Ticket dashboard, ticket creation, and resolution process)  
+  
 
 ## 📚 Key Takeaways  
 📌 Hands-on experience with **Microsoft Azure Virtual Machines**  
