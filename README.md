@@ -1,3 +1,4 @@
+![OSTicket](https://github.com/user-attachments/assets/41ff652a-befe-4f99-a1b3-e86b7955eeb9)
 # Os-Ticket
 This repository documents my hands-on experience setting up and using OS Ticket, an open-source help desk ticketing system.
 
