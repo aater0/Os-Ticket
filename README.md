@@ -96,13 +96,56 @@ This repository documents my hands-on experience setting up and using OS Ticket,
 
 17. From the “osTicket-Installation-Files” folder, install HeidiSQL.
     - Create a database called “osTicket”
-18. Once you finish Setting up osTicket in the browser we are done.
+18. Once you finish Setting up osTicket in the browser we are done with the installation.
 19. Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
     ![Os ticket login page](https://github.com/user-attachments/assets/55a241aa-b3c5-42cd-9d2d-d0fbc1ff59ee)
 
 
+Now that we finished installation let's do some post-installation configuration.
 
+20. On the admin panel side create a supreme admin role
+    - Admin Panel -> Agents -> Roles
+    - Give all permissions and tasks
+
+    
+![Roles](https://github.com/user-attachments/assets/a56a2918-5877-406b-99b0-dc539b0ff7cc)
+
+
+21. Create a Sysadmin department
+    - Admin Panel -> Agents -> Departments
+22. Create a Online Banking Team
+    - Admin Panel -> Agents -> Teams
+23. Allow anyone to create tickets
+    - Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
+24. Create our two Help desk employees
+    - Admin Panel -> Agents -> Add New
+    - Jane (Dept: SysAdmins)
+    - John (Dept: Support)
+25. Create two users
+    - Agent Panel -> Users -> Add New
+    - Karen
+    - Ken
+26. Configure SLA
+    - Admin Panel -> Manage -> SLA
+    - Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+    - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+    - Sev-C (Grace Period: 8 hours, Business Hours)
+
+![SLA](https://github.com/user-attachments/assets/80b1acbd-fd06-42ea-8867-b2bc6f8c46da)
+
+![SLA 2](https://github.com/user-attachments/assets/99f09e65-f942-4015-a0ea-e94d7de7de9a)
+
+
+27. Configure Help Topics
+    - Admin Panel -> Manage -> Help Topics
+    - Business Critical Outage
+    - Personal Computer Issues
+    - Equipment Request
+    - Password Reset
+    - Other
+
+![Help Topics](https://github.com/user-attachments/assets/0c892066-badc-40b7-9b52-c357cfbf97c1)
 
 
 
