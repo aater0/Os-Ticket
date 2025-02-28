@@ -147,13 +147,21 @@ Now that we finished installation let's do some post-installation configuration.
 
 ![Help Topics](https://github.com/user-attachments/assets/0c892066-badc-40b7-9b52-c357cfbf97c1)
 
+28. Now that post configuration is done we can start creating tickets and working on them
+29. As client Karen let's create a ticket about the entire mobile/online banking system being down.
 
+![Karen ticket system down](https://github.com/user-attachments/assets/b750f8ed-d32a-4f91-9a76-684fe6c5237d)
 
+30. We can practice working on and documenting the ticket and upgrading the severity.
 
+![Ticket working 1](https://github.com/user-attachments/assets/f93967b6-3e56-4305-82bb-59137bfc6080)
+![Ticket working 2](https://github.com/user-attachments/assets/5abbcaf6-cf40-4711-a01a-c018e7721d46)
+![Ticket working 3](https://github.com/user-attachments/assets/26b74c9d-5001-4289-9a73-c9e33b24dbe8)
+![Ticket working 4](https://github.com/user-attachments/assets/5d32b841-b6c5-4157-8b99-d23e06fc2795)
 
+31. Another ticket but this time about Adobe not working for a select amount of people
 
-   
-
+![Ticket working part 2](https://github.com/user-attachments/assets/33c77045-748e-4d22-a4c5-f026a6541f14)
 
 
 ## 📚 Key Takeaways  
